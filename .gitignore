@@ -26,3 +26,7 @@ faq.db*
 *.db
 *.db-shm
 *.db-wal
+
+pyproject.toml
+uv.lock
+llm-zoomcamp-hw2/models*
